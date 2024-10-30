@@ -15,11 +15,11 @@ keywords = [
 ]
 
 [tool.poetry.dependencies]
-python = "^3.5"
-colour-science = "^0.3"
-scipy = "^1.4"
-pillow = "^6.2"
-numpy = "^1.18"
+python = "^3.12"
+colour-science = "^0.4"
+scipy = "^1.14"
+pillow = "^11.0"
+numpy = "^2.0"
 
 [tool.poetry.dev-dependencies]
 
